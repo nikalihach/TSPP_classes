@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace ConsoleApp2
+namespace TSPP
 {
     abstract public class general_information
     {
